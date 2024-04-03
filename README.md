@@ -11,13 +11,6 @@ Welcome to my GitHub repository! I'm a data-driven professional with a passion f
 - **Database Management**: SQL (MySQL, BigQuery)
 - **Other**: Data Processing, Research Design, Data Modeling, Machine Learning, Natural Language Processing, Google Analytics
 
-### Experience Highlights
-
-- Automated data extraction/aggregation processes with SQL and BigQuery, reducing manual labor by 60% at ZDF-Digital Media Production.
-- Conducted geoanalysis using Google Maps data and spatial information, increasing targeted food product sales by 30% during an internship at TD Reply.
-- Completed an independent research project using regression analysis in SPSS to outline key risk factors in depression at the University of Washington.
-- Analyzed molecular behavior of cells with MATLAB (t-test, ANOVA, normalization, and distribution analyses) at Seattle Children's Research Institute.
-
 Feel free to explore my repositories, which showcase my work in data analysis, machine learning, and various programming projects. I'm always eager to collaborate on interesting projects and learn from the community.
 
 ### Connect with Me
