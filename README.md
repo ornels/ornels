@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ornels
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently a Masters Student in the field of Data Analytics studyng in Berlin.
+- 👀 I’m interested in Data Analytics/ Data Science
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me: sharonmf17@gmail.com
 
